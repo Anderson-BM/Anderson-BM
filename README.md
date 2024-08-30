@@ -15,10 +15,12 @@
 
 -----Estudios{}
 - ![ITLA-logo-fondo-blanco (1)](https://github.com/user-attachments/assets/ae9fb066-f00d-41d1-bcb4-3957fe611474)
-- ![Infotep](https://github.com/user-attachments/assets/be3a205d-072e-4f77-a302-b32d9c398b5f)
-- ![guia-cursos-one](https://github.com/user-attachments/assets/0b4988b1-29f0-446d-aba2-127f15cd1b77)
+
+
 
 ---- IDES
+
+
 ![Eclipse](https://github.com/user-attachments/assets/a971edbb-a053-4bb3-b63f-fe8f23214e05)
 ![inteligent](https://github.com/user-attachments/assets/56047af8-679a-4075-9754-438debe754f9)
 ![vsc](https://github.com/user-attachments/assets/0204dd76-2776-45de-9acd-7271dc7e31b3)
