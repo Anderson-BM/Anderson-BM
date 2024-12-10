@@ -52,8 +52,8 @@
 <hr>
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Anderson-BM&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Anderson-BM)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Anderson-BM&theme=material-palenight)](https://github.com/Anderson-BM)
+[![](https://github-readme-stats.vercel.app/api?username=Anderson-BMshow_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Anderson-BM)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Anderson-BMtheme=material-palenight)](https://github.com/Anderson-BM)
 
 
 
