@@ -2,6 +2,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Development+Student;Competitive+Programmer;Backend+Developer"></a>
 </p>
 
+![Anderson-gitHub](https://github.com/user-attachments/assets/223ceeee-4e66-4bf1-a1de-45518f5ad57a)
+
 ![abm  (2)](https://github.com/user-attachments/assets/2e1495e9-cfe9-48a3-a167-fcee62071f51)
 
 
