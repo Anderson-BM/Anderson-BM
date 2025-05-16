@@ -7,10 +7,13 @@
 
 
 - 👋 Hi, I’m @Anderson-Batista Mateo, Soy un joven apasionado por la tecnologia que esta esdudiando Desarrollo de Software en el instituto  tecnologico de las Americas ITLA
-- 👀 Estoy Interesadp por el Desarrollo de Software al  .
-- 🌱 Actualmente estoy aprendiedno C# y Bases de Datos Avanzada .
+- 🎓 Estudiante de Desarrollo de Software en el ITLA.
+- 🚀 Actualmente trabajando en proyectos académicos como sistemas con arquitecturas de software, MVC y .NET
+- 👀 Estoy Interesadp por las Arquitecturas de Software.
+- 🌱 Actualmente estoy aprendiedno React.
 - 💞️ Estoy Busacando colabora en grandes proyectos y poner a prueba mis habilidades al igual que compartir mis ideas con demas desarrolladores.
-- 📫 Me Pueden Contactar atravez de mi correo electronico o mi numero de telefono personal lo estare dejando ma sabajo
+- 📫  Contáctame: andersonbatistamateo@gmail.com
+- 👀  Portafolio: https://andersonportafolio.netlify.app/
 - 😄 Pronombres: Lanyel.
 - ⚡ Dato Curioso: Aun sigo abquiriendo conocimiento .
 <hr></hr>
@@ -21,7 +24,7 @@
 
 
 <hr></hr>
-### 🛠 &nbsp;Tech Stack ----  🛠 Tecnologías y herramientas
+🛠 Tecnologías y herramientas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
