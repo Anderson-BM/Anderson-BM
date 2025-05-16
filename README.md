@@ -18,7 +18,8 @@
 - ⚡ Dato Curioso: Aun sigo abquiriendo conocimiento .
 <hr></hr>
 
- 🏆Estudios realizados en estas dos Instituciones{}
+ <h2> 🏆Estudios realizados en estas dos Instituciones</h2>
+ 
 - ![ITLA-logo-fondo-blanco (1)](https://github.com/user-attachments/assets/ae9fb066-f00d-41d1-bcb4-3957fe611474)
 ![Infotep-removebg-preview](https://github.com/user-attachments/assets/419e6981-f1bf-4616-b3c9-9907c07c1dc4)
 
@@ -51,8 +52,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
 <hr>
 <h2>📈👀 Github stats:</h2> 
 
