@@ -53,19 +53,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---- IDES
-
-
 ![Eclipse](https://github.com/user-attachments/assets/a971edbb-a053-4bb3-b63f-fe8f23214e05)
 ![inteligent](https://github.com/user-attachments/assets/56047af8-679a-4075-9754-438debe754f9)
 ![vsc](https://github.com/user-attachments/assets/0204dd76-2776-45de-9acd-7271dc7e31b3)
 ![ventanas](https://github.com/user-attachments/assets/4d48320b-dab8-408d-9765-b9cf5196185e)
 
-
-
-<br>
 <br>
 <hr>
-<h2>Github stats:</h2> 
+<h2>📈👀 Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Anderson-BM&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Anderson-BM)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Anderson-BM&theme=material-palenight)](https://github.com/Anderson-BM)
