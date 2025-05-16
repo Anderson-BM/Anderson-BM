@@ -25,7 +25,7 @@
 
 
 <hr></hr>
-<h3>🚀🛠 Tecnologías y herramientas</h3>
+<h2>🚀🛠 Tecnologías y herramientas</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
