@@ -21,8 +21,8 @@
 ![Infotep-removebg-preview](https://github.com/user-attachments/assets/419e6981-f1bf-4616-b3c9-9907c07c1dc4)
 
 
-
-### 🛠 &nbsp;Tech Stack
+<hr></hr>
+### 🛠 &nbsp;Tech Stack ----  🛠 Tecnologías y herramientas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
