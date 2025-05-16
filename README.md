@@ -13,9 +13,9 @@
 - 📫 Me Pueden Contactar atravez de mi correo electronico o mi numero de telefono personal lo estare dejando ma sabajo
 - 😄 Pronombres: Lanyel.
 - ⚡ Dato Curioso: Aun sigo abquiriendo conocimiento .
-
-
 <hr></hr>
+
+
 -----Estudios{}
 - ![ITLA-logo-fondo-blanco (1)](https://github.com/user-attachments/assets/ae9fb066-f00d-41d1-bcb4-3957fe611474)
 ![Infotep-removebg-preview](https://github.com/user-attachments/assets/419e6981-f1bf-4616-b3c9-9907c07c1dc4)
